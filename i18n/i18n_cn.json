@@ -1,9 +1,29 @@
 {
     "i18n.index": "主页",
-    "i18n.successful-case": "成功案例",
-    "i18n.Intelligence-test": "AI智能考场",
-    "i18n.evaluation": "AI远程考评",
-    "i18n.practice": "AI智能练习",
-    "i18n.cooperation": "诚邀合作",
-    "i18n.login": "登 录"
+    "i18n.downLoad": "数据下载",
+    "i18n.papers": "论文",
+    "i18n.teamMember": "团队成员",
+    "i18n.contact": "联系方式",
+    "i18n.languages": "切换语言"
+    "i18n.The recommendations": "食谱推荐"
+    "i18n.Stop worrying about what you're going to eat today!": "别再为今天吃什么而烦恼！"
+	"i18n.Now explore!": "现在开始探索！"
+	"i18n.Fine-grained classification of dietary elements": "细粒度饮食元素分类"
+	"i18n.Let you know every dish on the table!":"慧"眼"识菜，让你对餐桌上的每一道菜都心知肚明！"
+	"i18n.Cancer diet":"癌症食疗"
+	"i18n.You are what you eat. You can prevent cancer by eating!":"你吃什么，就有怎样的身体，预防癌症从吃开始！"
+	"i18n.Large scale diet recipe data set":"大规模饮食食谱数据集"
+	"i18n.1.8 million recipes":"180万食谱"
+	"i18n.720,000 dietary elements":"72万饮食元素"
+	"i18n.500,000 relationship":"50万关系"
+	"i18n.150,000 visits":"15万人访问"
+	"i18n.The application case":"应用案例"
+	"i18n.Daily life is inseparable from diet, diet map for life provides great convenience":"日常生活离不开饮食，饮食图谱为生活提供了极大的便利"
+	"i18n.Fine-grained classification of dietary elements":"细粒度饮食元素分类"
+	"i18n.Diet culture":"饮食文化"
+	"i18n.Related systems":"相关系统"
+	"i18n.In addition to the diet recipe data and diet map, we also built the following system":"除了饮食食谱数据和饮食图谱，我们还构建了以下系统"
+	"i18n.Contact us at 028-61830885":"联系我们:028-61830885"
+
+
  }
